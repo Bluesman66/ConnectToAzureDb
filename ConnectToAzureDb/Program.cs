@@ -45,7 +45,7 @@ namespace ConnectToAzureDb
             {
                 Console.WriteLine(e.ToString());
             }
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
